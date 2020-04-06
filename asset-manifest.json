@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/exchanger-test/static/css/main.813d18c3.chunk.css",
+    "main.js": "/exchanger-test/static/js/main.43ddaf99.chunk.js",
+    "main.js.map": "/exchanger-test/static/js/main.43ddaf99.chunk.js.map",
+    "runtime-main.js": "/exchanger-test/static/js/runtime-main.76dd20e8.js",
+    "runtime-main.js.map": "/exchanger-test/static/js/runtime-main.76dd20e8.js.map",
+    "static/css/2.de424728.chunk.css": "/exchanger-test/static/css/2.de424728.chunk.css",
+    "static/js/2.07cd43ca.chunk.js": "/exchanger-test/static/js/2.07cd43ca.chunk.js",
+    "static/js/2.07cd43ca.chunk.js.map": "/exchanger-test/static/js/2.07cd43ca.chunk.js.map",
+    "index.html": "/exchanger-test/index.html",
+    "precache-manifest.56ca0ccfbe948c66b63d0b71affb648d.js": "/exchanger-test/precache-manifest.56ca0ccfbe948c66b63d0b71affb648d.js",
+    "service-worker.js": "/exchanger-test/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/exchanger-test/static/css/2.de424728.chunk.css.map",
+    "static/css/main.813d18c3.chunk.css.map": "/exchanger-test/static/css/main.813d18c3.chunk.css.map",
+    "static/js/2.07cd43ca.chunk.js.LICENSE.txt": "/exchanger-test/static/js/2.07cd43ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76dd20e8.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.07cd43ca.chunk.js",
+    "static/css/main.813d18c3.chunk.css",
+    "static/js/main.43ddaf99.chunk.js"
+  ]
+}
